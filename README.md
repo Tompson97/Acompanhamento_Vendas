@@ -1,4 +1,6 @@
 # Acompanhamento_Vendas
+link: https://docs.google.com/spreadsheets/d/1eLT42_yI3NUQt2w0fWJXJjRpxeF8qEy7eQ-H-zqrQKg/edit?usp=sharing
+
 Planilha do Google Sheets para acompanhar o faturamento diário por vendedor.
 Trabalho em uma loja de varejo que vende produtos eletrônicos e alguns serviços como seguros, garantias estendidas e aplicações de películas. 
 Meu papel como gerente é cuidar de toda a parte administrativa da loja e também acompanhar o faturamento, minha planilha serve como uma ferramentam de apoio para analisar os principais indicadores como meta, tendências, ticket médio, desconto médio, conversão de vendas e número serviços adicionais vendidos.
