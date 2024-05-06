@@ -21,7 +21,7 @@ Ao final da página temos uma tabela chamada Meta diária, contendo o objetivo d
 RELATÓRIO GERAL: Aqui os indicadores são praticamente idênticos ao de TRATAMETNO DADOS, a diferença é que os dados são ordenados pelos vendedores como maior faturamento para criar um ranking e também esconder as maior parte das fórmulas e tornar a visualização mais amigável para o usuário. 
 Essa tabela foi projetada para ser impressa em A4 para os gestores que gostam de ter os números no papel, basta um Ctrl + P.
 
-RELATÓRIO INDIVIDUAL: Nessa tabela os indicadores são filtrados para exibirem apenas um vendedor, o objetivo é ter um relatório mais específico caso o gestor da loja ter todos os dados na palpa da mão e chegar preparado para um feedback para seus vendedores. Aqui além das informações já conhecidas em RELATÓRIO GERAL também adicionei a previsão de premiação de algumas metas, com base no faturamento realizado. 
+RELATÓRIO INDIVIDUAL: Nessa tabela os indicadores são filtrados para exibirem apenas um vendedor, o objetivo é ter um relatório mais específico para o gestor da loja ter todos os dados na palpa da mão e chegar preparado para um feedback individual com seus vendedores. Aqui além das informações já conhecidas em RELATÓRIO GERAL também adicionei a previsão de premiação de algumas metas, com base no faturamento realizado. 
 
 
 Considerações finais: Apesar de ser uma planilha grande o usuário só irá preencher diariamente a aba de ENTRADA DE DADOS para atualizar os indicadores, a ESCALA DE FOLGAS é atualizada uma vez por mês e a aba TRATAMENTO DADOS fica oculta.
