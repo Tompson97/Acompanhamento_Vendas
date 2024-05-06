@@ -9,6 +9,7 @@ Quando iniciei na empresa já existiam planilhas com essa finalidade, porém era
 Consegui aprovação dos meus superiores e apresentei meu trabalho para toda a equipe de gestão da empresa e desde este dia esse modelo passou a ser um padrão. Criei um cópia para cada gestor em uma pasta do Google Drive e compartilhei os links, atribui permissões de segurança para que fosse possível editar apenas os campos necessários para garantir a integridades das fórmulas e layout. 
 
 Na planilha existem as seguintes abas: ESCALA DE FOLGAS, ENTRADA DE DADOS, TRATAMENTO DADOS (OCULTA), RELATÓRIO INDIVIDUAL e RELATÓRIO GERAL. 
+
 ENTRADA DE DADOS: Nessa tabela o usuário deve inserir todos os dados pertinentes a cada vendedos, como, meta mensal, ticket médio, desconto médio, faturamento realizado, quantidade de aparelhos vendidos, quantidades de serviços vendidos, etc. Essas informações são fornecidas pelo sistema da empresa, porém não existe uma dashboard para acompanhar os indicadores com mais eficiencia.
 
 ESCALA DE FOLGAS: Nessa tabela o usuário deve inserir a escala de folgas mensal de cada vendedor, com esses dados será possível calcular sua meta diária e tendência com base nos dias trabalhados até a data atual. Aqui tem uma informação adicional, o sistema da empresa fornece os dados sempre até o dia anterior a data atual, então as fórmulas estão ajustadas para terem o mesmo comportamento para ficarem coerentes com o contexto do negócio. Exemplo: Hoje são 05 de maio, no sistema as vendas registradas estão até dia 04 de maio.
