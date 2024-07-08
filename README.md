@@ -1,4 +1,5 @@
-# Vendas | Planilha Google Sheets
+## ACOMPANHAMENTO DE VENDAS | GOOGLE SHEETS
+<img src="https://i.ibb.co/6gRxHq1/Planilha-de-Vendas.png" alt="Planilha-de-Vendas" border="0">
 
 ## INTRODUÇÃO 
 Sou gerente  trabalho no setor comercial, varejo, e  dentre minhas atividades de gestão da loja está a tarefa de acompanhar o fluxo das vendas, analisar o desemepenho de cada vendedor e identificar aquelas que estão na meta para elogiar e aquelas que estão fora para aplicar soluções de melhoria. Ter clareza de como anda nosso faturamento é importante para aplicar estratégias para aumentar o fluxo.   
